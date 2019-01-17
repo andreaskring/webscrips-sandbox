@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Hurra webscript</shortname>
+    <description>Dette er et lille test webscript</description>
+    <url>/hurra</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+</webscript>
